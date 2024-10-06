@@ -48,12 +48,6 @@ Conclusion
 
 The NYC Culinary Success Predictor offers restaurateurs a powerful tool for operational optimization. By focusing on key factors like food and service quality, restaurants can make informed decisions to improve customer satisfaction and business success.
 
-How to Use This Repository
-
-	1.	Data: The data/ folder contains the prepared dataset used for training the models.
-	2.	Scripts: The scripts/ folder includes Python code for data preprocessing, model training, and evaluation.
-	3.	Results: The results/ folder contains visualizations of the decision tree and evaluation metrics.
-	4.	Report: The final project report is available in the docs/ folder.
 
 Requirements
 
